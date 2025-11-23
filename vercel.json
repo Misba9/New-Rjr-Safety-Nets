@@ -1,6 +1,9 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "/index.html" }
+    { 
+      "source": "/((?!images|assets|robots.txt|sitemap.xml|favicon.ico|vite.svg).*)",
+      "destination": "/index.html" 
+    }
   ],
   "headers": [
     {
