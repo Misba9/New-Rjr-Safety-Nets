@@ -12,7 +12,7 @@ const Footer = () => {
           {/* About */}
           <div>
             <h3 className="text-xl sm:text-2xl font-bold text-white mb-3 sm:mb-4">
-              ANS<span className="text-brand-primary">Nets</span>
+              Rjr<span className="text-brand-primary">Safety Nets</span>
             </h3>
             <p className="text-xs sm:text-sm leading-relaxed">
               We are a leading provider of high-quality safety nets, committed to ensuring the safety and security of your homes and businesses.
